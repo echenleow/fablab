@@ -43,4 +43,8 @@ body{
     font-family: sans-serif, ariel;
     font-size: medium;
 }
+.picture{
+    float: left;
+    padding-right: 50px;
+}
 
